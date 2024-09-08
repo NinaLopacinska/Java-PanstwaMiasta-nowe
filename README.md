@@ -1,4 +1,5 @@
 Tools -> Options -> Editor -> Code Completion -> Language -> java -> Auto Popup on Trying Any Java Identifier Part
+jdk download Oracle windowsk 64 pobieram -> netbeans download -> download -> Installers and Packages: 64exe -> pierwsze
 Utwórz program, który pozwoli użytkownikowi na wprowadzanie odwiedzonych i 
 planowanych do odwiedzenia miejsc. 
 Jako miejsce możemy zdefiniować kraj lub miasto. 
