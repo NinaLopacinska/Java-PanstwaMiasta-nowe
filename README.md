@@ -1,3 +1,4 @@
+Tools -> Options -> Editor -> Code Completion -> Language -> java -> Auto Popup on Trying Any Java Identifier Part
 Utwórz program, który pozwoli użytkownikowi na wprowadzanie odwiedzonych i 
 planowanych do odwiedzenia miejsc. 
 Jako miejsce możemy zdefiniować kraj lub miasto. 
